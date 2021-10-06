@@ -16,4 +16,7 @@ An android Quiz App in kotlin framework and uses Appwrite as backend
 
 ### Run :
 
+Refer Appwrite website for installation and you can create your own dataset
+
+For further details refer this blog : https://dev.to/appwrite/let-s-build-an-android-quiz-application-with-appwrite-3kn1
 
