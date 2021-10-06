@@ -23,10 +23,10 @@ For further details refer this blog : https://dev.to/appwrite/let-s-build-an-and
 
 ## Screenshots
 
-![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(4).jpg ?raw=true)
+![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(4).jpg?raw=true)
 
-![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(3).jpg ?raw=true)
+![Main screen1](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(3).jpg?raw=true)
 
-![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(2).jpg ?raw=true)
+![Main screen23](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(2).jpg?raw=true)
 
-![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(1).jpg ?raw=true)
+![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1%20(1).jpg?raw=true)
