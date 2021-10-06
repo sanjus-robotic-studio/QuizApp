@@ -20,3 +20,13 @@ Refer Appwrite website for installation and you can create your own dataset
 
 For further details refer this blog : https://dev.to/appwrite/let-s-build-an-android-quiz-application-with-appwrite-3kn1
 
+
+## Screenshots
+
+![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1 (4).jpg?raw=true)
+
+![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1 (3).jpg?raw=true)
+
+![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1 (2).jpg?raw=true)
+
+![Main screen](https://github.com/sanjus-robotic-studio/QuizApp/blob/main/images/1 (1).jpg?raw=true)
